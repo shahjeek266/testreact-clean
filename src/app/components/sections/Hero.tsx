@@ -65,7 +65,7 @@ const Hero = ({ isActive = false }: SlideProps) => {
         autoPlay
         playsInline
       >
-        <source src="https://shahmirkhan.net/wp-content/uploads/2025/07/intro-cover.mp4" type="video/mp4" />
+        <source src="https://res.cloudinary.com/dj2zq210a/video/upload/v1751828939/intro-cover_wkjew9.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
 
