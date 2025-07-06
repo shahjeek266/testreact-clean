@@ -112,7 +112,7 @@ const Faq = ({ isActive = false }: SlideProps) => {
               playsInline
               muted
             >
-              <source src="/videos/faq.mp4" type="video/mp4" />
+              <source src="https://res.cloudinary.com/dj2zq210a/video/upload/v1751829696/faq_i7ztea.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
 

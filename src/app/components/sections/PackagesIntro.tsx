@@ -118,7 +118,7 @@ const PackagesIntro = ({ isActive = false }: SlideProps) => {
               playsInline
               muted
             >
-              <source src="/videos/packagesintro.mp4" type="video/mp4" />
+              <source src="https://res.cloudinary.com/dj2zq210a/video/upload/v1751829704/packagesintro_ocdsld.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
 

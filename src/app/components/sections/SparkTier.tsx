@@ -176,7 +176,7 @@ const SparkTier = ({ isActive = false }: SlideProps) => {
               playsInline
               muted
             >
-              <source src="/videos/sparkvideo.mp4" type="video/mp4" />
+              <source src="https://res.cloudinary.com/dj2zq210a/video/upload/v1751829722/sparkvideo_hpw2xx.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
 

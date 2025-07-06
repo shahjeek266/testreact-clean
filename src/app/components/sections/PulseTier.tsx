@@ -314,7 +314,7 @@ const PulseTier = ({ isActive = false }: SlideProps) => {
               playsInline
               muted
             >
-              <source src="/videos/pulsevideo.mp4" type="video/mp4" />
+              <source src="https://res.cloudinary.com/dj2zq210a/video/upload/v1751829748/pulsevideo_sem60m.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
 

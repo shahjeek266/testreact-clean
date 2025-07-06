@@ -113,7 +113,7 @@ const WhyNow = ({ isActive = false }: SlideProps) => {
               playsInline
               muted
             >
-              <source src="/videos/why-now.mp4" type="video/mp4" />
+              <source src="https://res.cloudinary.com/dj2zq210a/video/upload/v1751829724/why-now_uooryf.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
 

@@ -55,7 +55,7 @@ const CTA = ({ isActive = false }: SlideProps) => {
         autoPlay
         playsInline
       >
-        <source src="/videos/outro-cover.mp4" type="video/mp4" />
+        <source src="https://res.cloudinary.com/dj2zq210a/video/upload/v1751829431/outro-cover_efrttt.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
 

@@ -113,7 +113,7 @@ const LiveExperience = ({ isActive = false }: SlideProps) => {
               playsInline
               muted
             >
-              <source src="/videos/liveexperience.mp4" type="video/mp4" />
+              <source src="https://res.cloudinary.com/dj2zq210a/video/upload/v1751829694/liveexperience_i3x0ja.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
 
