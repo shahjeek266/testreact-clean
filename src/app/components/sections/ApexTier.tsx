@@ -323,7 +323,7 @@ const ApexTier = ({ isActive = false }: SlideProps) => {
               playsInline
               muted
             >
-              <source src="/videos/apexvideo.mp4" type="video/mp4" />
+              <source src="https://shahmirkhan.net/wp-content/uploads/2025/07/apexvideo.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
 
