@@ -100,7 +100,7 @@ useEffect(() => {
               muted
               // loop removed
             >
-              <source src="/videos/welcomvideo.mp4" type="video/mp4" />
+              <source src="https://res.cloudinary.com/dj2zq210a/video/upload/v1751830482/welcomvideo_lx6x7n.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
 
