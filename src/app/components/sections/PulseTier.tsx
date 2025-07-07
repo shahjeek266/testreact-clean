@@ -288,7 +288,7 @@ const PulseTier = ({ isActive = false }: SlideProps) => {
         {/* Button */}
         <div className="text-right">
      <a
-  href="/videos/pulse-tier.mp4"
+  href="https://res.cloudinary.com/dj2zq210a/video/upload/v1751873100/Pulse_Tier_HD_a9o9at.mp4"
   target="_blank"
   rel="noopener noreferrer"
   className="bg-[#19345A] text-white text-sm font-semibold px-6 py-3 rounded-full shadow-md hover:bg-[#0f223f] transition inline-block"
