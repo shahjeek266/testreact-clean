@@ -83,7 +83,7 @@ useEffect(() => {
           </p>
         </div>
 
-        <div className="mt-60">
+        <div className="mt-30">
           <Image src={logoBlack} alt="logo" />
         </div>
       </div>
