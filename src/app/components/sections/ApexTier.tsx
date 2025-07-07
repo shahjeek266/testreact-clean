@@ -296,12 +296,13 @@ const ApexTier = ({ isActive = false }: SlideProps) => {
 
         {/* Button */}
         <div className="text-right">
-         <a
+     <a
   href="https://res.cloudinary.com/dj2zq210a/video/upload/v1751873096/Apex_Tier_HD_rs2y54.mp4"
   target="_blank"
   rel="noopener noreferrer"
   className="bg-[#19345A] text-white text-sm font-semibold px-6 py-3 rounded-full shadow-md hover:bg-[#0f223f] transition inline-block"
 >
+
   WATCH WALKTHROUGH VIDEO
 </a>
         </div>
