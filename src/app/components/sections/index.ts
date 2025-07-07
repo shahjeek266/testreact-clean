@@ -1,0 +1,13 @@
+export { default as Hero } from "./Hero";
+export { default as Welcome } from "./Welcome";
+export { default as ProblemStatement } from "./ProblemStatement";
+export { default as Solution } from "./OurSolution";
+export { default as LiveExperience } from "./LiveExperience";
+export { default as Differentiators } from "./Differentiators";
+export { default as PackagesIntro } from "./PackagesIntro";
+export { default as SparkTier } from "./SparkTier";
+export { default as PulseTier } from "./PulseTier";
+export { default as ApexTier } from "./ApexTier";
+export { default as WhyNow } from "./WhyNow";
+export { default as Faq } from "./Faq";
+export { default as CTA } from "./CTA";
