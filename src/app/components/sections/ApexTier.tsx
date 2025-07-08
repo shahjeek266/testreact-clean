@@ -130,7 +130,7 @@ const ApexTier = ({ isActive = false }: SlideProps) => {
                 </p>
                 <p>
                   <b>
-                    - <span className="font-black text-[25px]">4</span>{" "}
+                    - <span className="font-black text-[25px]">6</span>{" "}
                     interactive AI real-time stations.
                   </b>
                 </p>
