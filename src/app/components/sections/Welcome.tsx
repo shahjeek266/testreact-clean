@@ -58,7 +58,7 @@ useEffect(() => {
           <h1 className="text-[#19345A] text-[50px] leading-[60px]">
             WELCOME TO <br />
             <Image src={Qmark} alt="Q" className="inline" />
-            UANTEX
+            <b>UANTEX</b>
           </h1>
         </div>
 
