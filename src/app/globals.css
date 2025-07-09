@@ -3,3 +3,7 @@
 @import "swiper/css";
 @import "swiper/css/navigation";
 @import "swiper/css/pagination";
+/* Add this to your global.css to ensure Swiper has the correct bottom padding */
+.swiper-container {
+  padding-bottom: calc(var(--spacing) * 6) !important;
+}
