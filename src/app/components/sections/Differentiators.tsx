@@ -57,7 +57,7 @@ const Differentiators = ({ isActive = false }: SlideProps) => {
           <h1 className="text-[#19345A] text-[45px] leading-[60px]">
             WHAT MAKES <br />
             <Image src={Qmark} alt="Q" className="inline" width={40} />
-            UANTEX <br /> DIFFERENT?
+            <b>UANTEX</b> <br /> DIFFERENT?
           </h1>
         </div>
 
