@@ -74,7 +74,7 @@ const SparkTier = ({ isActive = false }: SlideProps) => {
             pagination={{ clickable: true }}
             spaceBetween={30}
             slidesPerView={1}
-            className="pb-[calc(var(--spacing)*6)] !important"
+            className="swiper-container pb-6"
           >
             {/* Slides */}
             <SwiperSlide className="space-y-6">
