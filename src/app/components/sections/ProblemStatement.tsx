@@ -56,7 +56,7 @@ const ProblemStatement = ({ isActive = false }: ProblemStatementProps) => {
         {/* Heading */}
         <div className="w-fit mt-10">
           <h1 className="text-[#19345A] text-[45px] leading-[60px]">
-            THE PROBLEM <br /> WITH EVENTS <br />
+            THE PROBLEM <br /> WITH <b>EVENTS <br />
             T
             <Image
               src={Omark}
@@ -66,6 +66,7 @@ const ProblemStatement = ({ isActive = false }: ProblemStatementProps) => {
               height={30}
             />
             DAY
+              </b>
           </h1>
         </div>
 
