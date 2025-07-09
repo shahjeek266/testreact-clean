@@ -80,9 +80,9 @@ const ProblemStatement = ({ isActive = false }: ProblemStatementProps) => {
             <br />
             <b>Follow-up</b> is <b>manual.</b>
             <br />
-            <b>Event ROI</b> is hard to measure
+            Event <b>ROI</b> is <b>hard to measure</b>
             <br />
-            and harder to scale.
+            and <b>harder to scale</b>.
           </p>
           <p className="mt-15">The result?</p>
           <p
