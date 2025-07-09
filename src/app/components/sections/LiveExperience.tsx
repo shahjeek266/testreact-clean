@@ -75,7 +75,7 @@ const LiveExperience = ({ isActive = false }: SlideProps) => {
 
         <div className="w-fit text-[34px] text-[#19345A] leading-[38px] pb-20">
           <p>
-            <b>- Smart registration counters</b> with <b>QID card</b>
+            <b>- Smart registration</b> counters with <b>QID card</b>
             <br />
             &nbsp;&nbsp;<b>personalization</b> and visual + voice assistance.
           </p>
@@ -93,7 +93,7 @@ const LiveExperience = ({ isActive = false }: SlideProps) => {
             <b>- Intelligent assistants</b> in <b>meeting rooms.</b>
           </p>
           <p>
-            <b>- Data collection units</b> that <b>track engagement live.</b>
+            <b>- Data collection</b> units that <b>track engagement live.</b>
           </p>
         </div>
 
