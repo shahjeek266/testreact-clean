@@ -60,6 +60,7 @@ const Faq = ({ isActive = false }: SlideProps) => {
             <b className="text-[70px]">
               FA
               <Image src={Qmark} alt="Q" className="inline relative -top-[4px]" width={60} />
+              S
             </b>
           </h1>
         </div>
