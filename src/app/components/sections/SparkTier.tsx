@@ -96,10 +96,10 @@ const SparkTier = ({ isActive = false }: SlideProps) => {
               <div className="space-y-3">
                 <div className="space-y-2">
                   <p><b>- <span className="text-[25px]">2</span> interactive AI real-time stations.</b></p>
-                  <p><b>- <span className="text-[25px]">2</span> AI Portal Stands with signage & looping content.</b></p>
-                  <p><b>- <span className="text-[25px]">1</span> Meeting Room with Data Collection Unit.</b></p>
-                  <p><b>- Narrative AI Avatar (Announcements, Intro, Outro).</b></p>
-                  <p><b>- Choose one Stage AI Avatar type: Speaker AI, Moderator AI, Standalone.</b></p>
+                  <p><b>- <span className="text-[25px]">2</span> AI Portal Stands with directional signage and looping content</b></p>
+                  <p><b>- <span className="text-[25px]">1</span> Meeting Room equipped with Data Collection Unit</b></p>
+                  <p><b>- Narrative AI Experience Avatar (Announcements, Intro, Outro)</b></p>
+                  <p><b>- Choose one Stage AI Interactive Avatars types available:</b> Speaker AI, Moderator AI, Standalone</p>
                 </div>
               </div>
             </SwiperSlide>
