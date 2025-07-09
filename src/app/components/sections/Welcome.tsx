@@ -66,8 +66,8 @@ useEffect(() => {
           <p>
             Welcome to <b>the future of event intelligence.</b>
             <br />
-            We design <b>AI-powered event ecosystems</b> <br />
-            intelligent, interactive, and <b>unforgettable.</b>
+            We design <b>AI-powered event ecosystems <br />
+            intelligent, interactive,</b> and <b>unforgettable.</b>
           </p>
           <p className="mt-8">
             From registration to real-time interaction to <br />
