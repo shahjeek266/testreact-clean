@@ -78,7 +78,7 @@ const Faq = ({ isActive = false }: SlideProps) => {
             </p>
             <p className=" text-[25px]">
               Full on-ground & virtual support from our backend?
-              <span className="text-[30px] font-extrabold"> Yes</span>
+              <span className="text-[30px] font-extrabold"> Always</span>
             </p>
           </div>
           <div className="space-y-10">
