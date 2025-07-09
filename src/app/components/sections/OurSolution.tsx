@@ -56,8 +56,8 @@ const Solution = ({ isActive = false }: SlideProps) => {
         <div className="w-fit mt-10">
           <h1 className="text-[#19345A] text-[45px] leading-[60px]">
             THE{" "}
-            <Image src={Qmark} alt="Q" className="inline" width={40} />UANTEX
-            <br /> SOLUTION
+            <Image src={Qmark} alt="Q" className="inline" width={40} /><b>UANTEX
+            <br /> SOLUTION</b>
           </h1>
         </div>
 
