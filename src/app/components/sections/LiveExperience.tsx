@@ -57,7 +57,7 @@ const LiveExperience = ({ isActive = false }: SlideProps) => {
             <span className="font-light">THE&nbsp;</span>
             <b>LIVE</b>
             <br />
-            <b>EXPERINCE</b>
+            <b>EXPERIENCE</b>
           </h1>
         </div>
 
