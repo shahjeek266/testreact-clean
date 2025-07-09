@@ -81,7 +81,7 @@ const WhyNow = ({ isActive = false }: SlideProps) => {
               <b className="text-[70px] leading-11 font-extrabold">OFF</b>
               <br />
               <b className="text-[30px] font-extrabold">
-                until Decmber 2025, 31.
+                until December 2025, 31.
               </b>
             </p>
             <p className="font-extrabold text-[25px]">
